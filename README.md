@@ -1,4 +1,39 @@
-URL APP: https://fitweb.live
+# FitWeb - Gym Management System
+
+FitWeb is a comprehensive web application designed to manage gym operations efficiently. It provides tools for managing coaches, members, memberships, attendance tracking, and payment processing.
+
+## Demo Video
+
+[Watch the video demonstration](https://drive.google.com/file/d/1AL7euaFvH7a_oVyvNJIoVPXZvrk_SlGy/view?usp=drive_link)
+
+## Project Overview
+
+FitWeb is built with Laravel and serves as a complete solution for gym administration, including:
+
+- **Member Management**: Register and manage gym members with detailed profiles and memberships
+- **Coach Management**: Manage coaches and their attendance records
+- **Attendance Tracking**: Track both member and coach attendance sessions
+- **Membership Plans**: Create and manage different membership plans
+- **Payment Processing**: Handle membership payments and subscription management
+- **Admin Dashboard**: Administrative controls for gym receptionists and administrators
+
+## Tech Stack
+
+- **Backend**: Laravel Framework
+- **Frontend**: JavaScript with Vite build tool
+- **Database**: MySQL/MariaDB
+- **Build Tool**: Vite for fast development
+
+## Project Structure
+
+- `/app/Models` - Eloquent models for database entities
+- `/app/Http/Controllers` - Application controllers
+- `/app/Http/Middleware` - Custom middleware
+- `/database/migrations` - Database schema migrations
+- `/database/seeders` - Database seeding classes
+- `/resources/views` - Blade templates
+- `/routes` - Application routes
+- `/tests` - PHPUnit tests
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
